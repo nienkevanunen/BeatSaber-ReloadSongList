@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/beat-saber-modding-group/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "ReloadSongList",
+  "name": "ReloadSongList",
+  "author": "Poofcakes",
+  "version": "1.0.0",
+  "description": "A Beat Saber mod that adds a button to reload your list of songs to the mod menu.",
+  "gameVersion": "1.9.0",
+  "dependsOn": {
+    "BeatSaberMarkupLanguage": "^1.3.2",
+    "SongCore":  "^2.9.1"
+  },
+  "features": []
+}
